@@ -4,6 +4,9 @@
     "description": "This is a basic extension to import a basic template of html5 in your html file",
     "homepage": "https://github.com/tanishbaansal/html5-template-bracket",
     "version": "1.0.0",
-    "author": "tanishbaansal"
+    "author": "tanishbaansal",
+    "engines": {
+        "brackets": ">=0.24.0"
+    }
  
 }
