@@ -24,7 +24,7 @@ define(function (require, exports, module) {
                 
                 "\t" + "<title> Title </title>" + "\n" +
                 "</head>" +"\n\n" +
-                "\t" + "<body>" + "\n" +
+                "<body>" + "\n" +
                 "\n" +
                 "</body>" + "\n" +
                 "</html>" +"\n"                
